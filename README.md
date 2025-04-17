@@ -28,12 +28,21 @@ Tikabula is a comprehensive ticket scanning and attendee management system desig
 └── index.html            # Landing page
 ```
 
-## Technologies
-- PHP backend for server-side logic
-- JavaScript with ZXing library for QR code scanning
-- Tailwind CSS for modern, responsive UI
-- Font Awesome and Material Design Iconic Font for icons
-- PHPMailer for email notifications
+## 🛠️ Technologies Used
+
+![PHP](https://img.shields.io/badge/Language-PHP-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-blue)
+![Font Awesome](https://img.shields.io/badge/Icons-Font_Awesome-lightgrey)
+![Material Design](https://img.shields.io/badge/Icons-Material_Design-lightblue)
+![PHPMailer](https://img.shields.io/badge/Email-PHPMailer-green)
+
+- **PHP** - Backend server-side logic
+- **JavaScript** - With ZXing library for QR code scanning
+- **Tailwind CSS** - Modern, responsive UI
+- **Font Awesome** - For icons
+- **Material Design Iconic Font** - For additional iconography
+- **PHPMailer** - For email notifications
 
 ## Setup
 1. Clone the repository to your web server directory
