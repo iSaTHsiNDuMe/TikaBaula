@@ -11,6 +11,15 @@ Tikabula is a comprehensive ticket scanning and attendee management system desig
 - **Admin Dashboard:** Comprehensive administration panel for ticket and account management
 - **Responsive Design:** Works on both mobile and desktop devices
 
+## Screenshots
+
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+### QR Code Scanning
+![QR Code Scanning Screenshot](screenshots/qr_scanning.png)
+
+
 ## File Structure
 ```
 ├── admin/                # Administration panel
