@@ -1,0 +1,11 @@
+Copyright (c) 2025 Sathsindu Induwara (moko@isathsindu.com)
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are the proprietary property of Sathsindu Induwara.
+
+Permission is hereby not granted to any person obtaining a copy of this Software to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software without explicit prior written permission from the copyright holder.
+
+Unauthorized use, reproduction, distribution, or disclosure of this Software, in whole or in part, is strictly prohibited.
+
+For licensing inquiries, please contact: moko@isathsindu.com
