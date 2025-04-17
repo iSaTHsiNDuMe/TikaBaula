@@ -17,7 +17,7 @@ Tikabula is a comprehensive ticket scanning and attendee management system desig
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### QR Code Scanning
-<img src="path-to-your-image" width="300" />
+<img src="screenshots/qr_scanning.png" width="300" />
 
 
 ## File Structure
